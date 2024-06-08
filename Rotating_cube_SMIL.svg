@@ -4,7 +4,7 @@
  <desc>SMIL animation of rotating wireframe cube by CMG Lee.</desc>
  <defs>
   <pattern id="imgPattern" patternUnits="userSpaceOnUse" width="100" height="100">
-    <image href="https://raw.githubusercontent.com/Ayevs/Ayevs/81d1acee6403a49efa3010675fb8641f1174f686/plasticflower.png" x="20" y="0" width="80" height="100" />
+    <image href="https://raw.githubusercontent.com/Ayevs/Ayevs/main/Untitled.png" x="20" y="0" width="80" height="100" />
   </pattern>
   <path id="vertical" fill="url(#imgPattern)" d="M 0,125 V -125"/>
   <path id="end" fill="url(#imgPattern)" d="M 100,0 L 0,100 L -100,0 L 0,-100 Z" preserveAspectRatio="none"/>
